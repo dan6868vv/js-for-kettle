@@ -9,3 +9,10 @@ function addNumbers(num1, num2) {
 }
 
 console.log(addNumbers(1, 2));
+
+alert (10);
+
+var firstNumber = 1;
+var secondNumber = 3;
+var total = Number(firstNumber) + Number(secondNumber);
+alert(total);
